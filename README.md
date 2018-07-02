@@ -32,7 +32,7 @@ get_user_top():  максимально время:  733 мкс, среднее 
 [----------] 1 test from user_disconnected (0 ms total)
 [----------] 1 test from user_deal_won
 [ RUN      ] user_deal_won.deal_won_user
-[       OK ] user_deal_won.deal_won_user (0 ms)
+[       OK ] user_deal_won.deal_won_user (0 ms) 
 [----------] 1 test from user_deal_won (1 ms total)
 [----------] 1 test from get_user_top
 [ RUN      ] get_user_top.get_top_user
